@@ -1,4 +1,4 @@
-# ArcoLinuxD BSPWM Desktop
+# ArcoLinuxD wmwunderland Desktop
 
 # Start by installing the latest ArcoLinuxD iso
 
