@@ -60,7 +60,7 @@ dmenu
 feh
 wmderland-git
 arcolinux-wmderland-git
-arcolinux-wmderland-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-config-all-desktops-git
 polybar
 arcolinux-polybar-git
